@@ -21,7 +21,7 @@ The dataset contains:
  ## Dashboard Preview  
 This is a preview of the Power BI Sales Dashboard:  
 
-![Dashboard Preview](https://github.com/shivasai45/Performance-Insights-Dashboard/blob/main/Dashboard%20image.png)
+![Dashboard Preview](https://github.com/SureshBikkivelli/Chocolates-Sales-Analysis/blob/main/Dashboard%20image.png)
 
 
 
@@ -30,7 +30,7 @@ This is a preview of the Power BI Sales Dashboard:
 2. Detected a sales decline in Q3, indicating a need for targeted marketing.  
 
 ## How to Use  
-1. Download the `.pbix` file [here](https://github.com/shivasai45/Performance-Insights-Dashboard/blob/main/Performance%20Insights%20dashboard.pbix).  
+1. Download the `.pbix` file [here](https://github.com/SureshBikkivelli/Chocolates-Sales-Analysis/blob/main/Performance%20Insights%20dashboard.pbix).  
 2. Open it in Power BI Desktop to explore the dashboard.  
 
 ## About Me  
