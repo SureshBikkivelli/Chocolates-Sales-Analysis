@@ -34,4 +34,4 @@ This is a preview of the Power BI Sales Dashboard:
 2. Open it in Power BI Desktop to explore the dashboard.  
 
 ## About Me  
-I’m Shivasai, an aspiring data analyst skilled in Power BI, SQL, and Excel. Connect with me on [LinkedIn](https://linkedin.com/in/shivasai1).  
+I’m Suresh, Data analyst skilled in Power BI, SQL, and Excel. Connect with me on [LinkedIn](https://www.linkedin.com/in/bikkivellisuresh/).
